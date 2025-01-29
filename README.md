@@ -1,5 +1,3 @@
-<p align="center"><img src="img/IPTV.jpg" alt="iptv" width="auto" height="150"><img src="img/M3U.jpg" alt="iptv" width="auto" height="150"></p>
-
 # 说明
 
 个人自用成都电信组播转单播 IPTV 地址，使用 iPlayTV App 通过直接导入远程 m3u 文件完成 IPTV 配置。
